@@ -1,0 +1,3 @@
+display_name: Paper Understanding Guide
+short_description: 直接在对话中生成中文论文理解 Guide。
+default_prompt: 请使用 paper-understanding-guide，直接在 Codex 对话里用简体中文生成这篇论文的理解 Guide，不要创建单独文件。
